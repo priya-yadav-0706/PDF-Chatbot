@@ -1,0 +1,7 @@
+tiktoken
+qdrant-client
+langchain-community
+openai
+PyPDF2
+huggingface
+python-dotenv
